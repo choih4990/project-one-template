@@ -1,1 +1,7 @@
-/* Enter your Styles below! */
+body {
+	background:  url(../images.sierras.jpg);
+}
+
+h1 {
+	font-family: "merriweather" serif;
+}
